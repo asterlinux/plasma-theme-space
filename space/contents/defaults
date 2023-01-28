@@ -8,14 +8,14 @@ ColorScheme=BreezeDark
 widgetStyle=Breeze
 
 [kwinrc][DesktopSwitcher]
-LayoutName=org.kde.breeze.desktop
+LayoutName=org.kde.space.desktop
 
 [kwinrc][WindowSwitcher]
-LayoutName=org.kde.breeze.desktop
+LayoutName=org.kde.space.desktop
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.breeze
-theme=Breeze
+theme=Space
 
 [plasmarc][Theme]
 name=default
