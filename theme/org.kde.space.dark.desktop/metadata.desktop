@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=Dark Space
+Comment=Dark Space Look and Feel for Plasma 5.
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Sahan Rasanjana
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=sahan.user@gmail.com
+X-KDE-PluginInfo-License=CC BY-SA 4.0
+X-KDE-PluginInfo-Name=org.kde.space.dark.desktop
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://asterlinux.github.io
+X-KDE-fallbackPackage=org.kde.breezedark.desktop
+X-Plasma-MainScript=defaults

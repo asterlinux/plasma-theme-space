@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "sahan.user@gmail.com",
+                "Name": "Sahan Rasanjana",
+            }
+        ],
+        "Category": "",
+        "Description": "Dark Space for Aster Linux",
+        "EnabledByDefault": true,
+        "Id": "dark-sace",
+        "License": "LGPL",
+        "Name": "Dark Space",
+        "Version": "1.0",
+        "Website": "https://asterlinux.github.io"
+    },
+    "X-Plasma-API": "5.0"
+}

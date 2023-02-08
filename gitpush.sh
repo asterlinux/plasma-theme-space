@@ -3,5 +3,5 @@
 git add .
 
 
-git commit -m "Calamare config"
+git commit -m "Dark Space Plasma theme"
 git push
