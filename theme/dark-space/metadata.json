@@ -4,15 +4,21 @@
             {
                 "Email": "sahan.user@gmail.com",
                 "Name": "Sahan Rasanjana",
+                "Name[en_GB]": "Sahan Rasanjana",
+                "Name[vi]": "Sahan Rasanjana",
+                "Name[x-test]": "xxSahan Rasanjanaxx",
+                "Name[zh_CN]": "Sahan Rasanjana"
             }
         ],
         "Category": "",
-        "Description": "Dark Space for Aster Linux",
+        "Description": "Dark Space plasma theme",
+        "Description[en_GB]": "Dark Space plasma theme",
         "EnabledByDefault": true,
-        "Id": "dark-sace",
+        "Id": "dark-space",
         "License": "LGPL",
         "Name": "Dark Space",
-        "Version": "1.0",
+        "Name[en_GB]": "Dark Space",
+        "Version": "0.1",
         "Website": "https://asterlinux.github.io"
     },
     "X-Plasma-API": "5.0"

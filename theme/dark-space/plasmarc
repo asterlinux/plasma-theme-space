@@ -1,14 +1,14 @@
 [Wallpaper]
-defaultWallpaperTheme=Stars
+defaultWallpaperTheme=Redpletu
 defaultFileSuffix=.png
-defaultWidth=1920
-defaultHeight=1080
+defaultWidth=5120
+defaultHeight=2880
 
 [ContrastEffect]
 enabled=true
-contrast=0.17
+contrast=0.27
 intensity=1.25
-saturation=9
+saturation=3
 
 [AdaptiveTransparency]
 enabled=true

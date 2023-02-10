@@ -2,7 +2,7 @@
 widgetStyle=Breeze
 
 [kdeglobals][General]
-ColorScheme=dark-space
+ColorScheme=Sweet
 
 [kdeglobals][Icons]
 Theme=breeze-dark
@@ -10,8 +10,19 @@ Theme=breeze-dark
 [plasmarc][Theme]
 name=dark-space
 
+[kdeglobals][MainToolbarIcons]
+Size=22
+
+[kdeglobals][ToolbarIcons]
+Size=22
+
+[kdeglobals][Toolbar style]
+ToolButtonStyle=NoText
+ToolButtonStyleOtherToolbars=NoText
+
+
 [Wallpaper]
-Image=Stars
+Image=Redpletu
 
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors
@@ -20,10 +31,11 @@ cursorTheme=breeze_cursors
 LayoutName=org.kde.breeze.desktop
 
 [kwinrc][DesktopSwitcher]
-LayoutName=org.kde.breeze.desktop
+LayoutName=org.kde.space.dark.desktop
 
 [kwinrc][org.kde.kdecoration2]
-library=org.kde.breeze
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Dark-Space
 
 [KSplash]
-Theme=org.kde.Breeze
+Theme=org.kde.breezedark
