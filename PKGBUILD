@@ -11,11 +11,10 @@ md5sums=("SKIP")
 
 package() {
 	mkdir -p "${pkgdir}"/usr/share/plasma/{look-and-feel,desktoptheme,layout-templates}
-        mkdir -p "${pkgdir}"/usr/share/aurorae/themes/
-        mkdir -p "${pkgdir}"/usr/share/{wallpapers,color-schemes}/
+#        mkdir -p "${pkgdir}"/usr/share/aurorae/themes/
+        mkdir -p "${pkgdir}"/usr/share/wallpapers/
         cp ${srcdir}/theme/Redpletu -r "${pkgdir}"/usr/share/wallpapers/
-        cp ${srcdir}/theme/Sweet.colors -r "${pkgdir}"/usr/share/color-schemes/
-        cp ${srcdir}/theme/aurorae/theme/Dark-Space -r "${pkgdir}"/usr/share/aurorae/themes/Dark-Space
+#        cp ${srcdir}/theme/aurorae/theme/Dark-Space -r "${pkgdir}"/usr/share/aurorae/themes/Dark-Space
 	cd ${pkgdir}/usr/share/plasma/
         cp ${srcdir}/theme/dark-space "${pkgdir}"/usr/share/plasma/desktoptheme/dark-space -r 
         cp ${srcdir}/theme/org.kde.plasma.desktop.spacePanel "${pkgdir}"/usr/share/plasma/layout-templates/org.kde.plasma.desktop.spacePanel -r

@@ -2,7 +2,7 @@
 widgetStyle=Breeze
 
 [kdeglobals][General]
-ColorScheme=Sweet
+ColorScheme=BreezeDark
 
 [kdeglobals][Icons]
 Theme=breeze-dark
@@ -11,10 +11,10 @@ Theme=breeze-dark
 name=dark-space
 
 [kdeglobals][MainToolbarIcons]
-Size=22
+Size=24
 
 [kdeglobals][ToolbarIcons]
-Size=22
+Size=24
 
 [kdeglobals][Toolbar style]
 ToolButtonStyle=NoText
@@ -34,8 +34,7 @@ LayoutName=org.kde.breeze.desktop
 LayoutName=org.kde.space.dark.desktop
 
 [kwinrc][org.kde.kdecoration2]
-library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Dark-Space
+library=org.kde.breeze
 
 [KSplash]
 Theme=org.kde.breezedark
