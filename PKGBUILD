@@ -1,7 +1,7 @@
 # Maintainer: Sahan Raanjana <sahan.user@gmail.com>
 pkgname=dark-space-theme
 pkgver=1
-pkgrel=1
+pkgrel=2
 pkgdesc="Aster Linux Plasma Theme"
 arch=("x86_64")
 url="https://asterlinux.github.io"
